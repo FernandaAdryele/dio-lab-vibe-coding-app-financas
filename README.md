@@ -103,14 +103,15 @@ A proposta é simplificar o controle financeiro, eliminando formulários complex
   - Recursos mínimos necessários (NLP para chat, categorização automática, dashboard simples).
   - Esboço de validação inicial (testar com grupo piloto de usuários iniciantes e pessoas com diferentes perfis de acessibilidade).
 - Linguagem acessível e educativa, em português, para facilitar entendimento e adoção.
+
 ```
 Interações com o Lovable:
 
 > Crie um App de Finanças pessoais com base no seguinte PRD
 > tentei colocar um gasto porém o aplicativo não reconheceu
-> Consegue trazer os relatórios das movimentações bancárias, com gráficoa, por favor
+> Consegue trazer os relatórios das movimentações bancárias, com gráfico, por favor
 
-Resultado final no Lovable: https://conversa-cash-coach.lovable.app
+> Resultado final no Lovable: https://conversa-cash-coach.lovable.app
 
 <img width="1892" height="882" alt="image" src="https://github.com/user-attachments/assets/18f669da-f8fc-4983-beb1-3ff366884ca1" />
 
@@ -141,7 +142,7 @@ Resultado final no Lovable: https://conversa-cash-coach.lovable.app
 - Ideal para iniciantes e pessoas com pouca familiaridade digital.
 - Compatível com diferentes dispositivos e necessidades de acessibilidade.
   
--  
+  
 ## Reflexão 
   ## O que funcionou bem?
     A IA acelerou drasticamente o processo, transformando rapidamente ideias em código funcional. A prototipagem ganhou ritmo, permitindo testar hipóteses quase em tempo real e reduzindo a distância entre design e aplicação interativa.
