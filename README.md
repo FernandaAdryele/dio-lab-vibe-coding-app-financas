@@ -112,6 +112,11 @@ Interações com o Lovable:
 
 Resultado final no Lovable: https://conversa-cash-coach.lovable.app
 
+
+
+<img width="1892" height="882" alt="image" src="https://github.com/user-attachments/assets/949f85ae-119f-4927-8885-d7aae0babb94" />
+
+
 ## Funcionalidades do App MinhasFinanças
 
 ### 1. Assistente Financeiro Conversacional
