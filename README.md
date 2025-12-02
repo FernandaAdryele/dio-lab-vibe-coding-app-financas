@@ -70,19 +70,88 @@ Durante essa etapa, você pode orientar a IA para três entregas principais:
 
 ### 3. Entregando o Desafio na DIO
 
-Finalize seu projeto criando um **repositório no GitHub** (pode ser um **fork** deste).  
-No README do seu repositório, inclua:
+PRD refinado no Copilot:
 
-- Seu **prompt final** (PRD);  
-- Prints ou pequenos vídeos das interações com a IA;  
-- Um resumo do que o seu **App de Finanças Pessoais** faz;  
-- Uma breve **reflexão sobre o processo**:
-  - O que funcionou bem?  
-  - O que não funcionou como o esperado?  
-  - O que aprendeu sobre conversar com IAs?
+```
+PRD – Aplicativo de Organização de Finanças Pessoais Conversacional
 
-> [!TIP]
-> Publique seu repositório e compartilhe o link na plataforma da DIO! Sua entrega é a prova de que você domina o raciocínio de Vibe Coding, mesmo sem escrever uma única linha de código.
+1. Contexto
+O objetivo é criar um aplicativo de organização de finanças pessoais que funcione por meio de conversas em linguagem natural.
+A proposta é simplificar o controle financeiro, eliminando formulários complexos e planilhas manuais, oferecendo uma experiência fluida e acessível.
+
+2. Problema
+- Usuários desistem de controlar seus gastos porque os apps atuais exigem muita entrada manual.
+- Falta personalização e recomendações práticas que se adaptem ao perfil de cada pessoa.
+- A barreira inicial para iniciantes é alta, gerando abandono precoce.
+
+3. Público-Alvo
+- Pessoas que desejam começar a organizar suas finanças de forma prática e sem complicação.
+- Principalmente iniciantes que nunca usaram apps de finanças ou que desistiram por achar difícil.
+- Perfil: jovens adultos, trabalhadores autônomos, estudantes e qualquer pessoa que queira simplicidade.
+
+4. Funcionalidades-Chave
+1. Registro de gastos via chat em linguagem natural (ex.: “gastei R$50 no mercado”).
+2. Classificação automática das transações por categoria (alimentação, transporte, lazer etc.).
+3. Definição e acompanhamento de metas financeiras (ex.: economizar R$200 por mês).
+4. Agente Financeiro: dicas personalizadas de economia e boas práticas.
+5. Relatórios simples e personalizados, com visualizações claras (gráficos e resumos).
+6. Design Universal: garantir que o aplicativo seja acessível e ofereça boa experiência para o maior número possível de usuários, incluindo diferentes idades, níveis de letramento digital e necessidades de acessibilidade.
+
+5. Entregável da IA
+- Plano de MVP contendo:
+  - Principais telas (chat, relatórios, metas, dicas).
+  - Recursos mínimos necessários (NLP para chat, categorização automática, dashboard simples).
+  - Esboço de validação inicial (testar com grupo piloto de usuários iniciantes e pessoas com diferentes perfis de acessibilidade).
+- Linguagem acessível e educativa, em português, para facilitar entendimento e adoção.
+```
+Interações com o Lovable:
+
+> Crie um App de Finanças pessoais com base no seguinte PRD
+> tentei colocar um gasto porém o aplicativo não reconheceu
+> Consegue trazer os relatórios das movimentações bancárias, com gráficoa, por favor
+
+Resultado final no Lovable: https://conversa-cash-coach.lovable.app
+
+<img width="1892" height="882" alt="image" src="https://github.com/user-attachments/assets/18f669da-f8fc-4983-beb1-3ff366884ca1" />
+
+## Funcionalidades do App MinhasFinanças
+
+### 1. Assistente Financeiro Conversacional
+- Interface de chat que permite registrar gastos e receitas usando linguagem natural.
+- Exemplos de comandos: “gastei R$50 no mercado” ou “recebi R$200”.
+- Respostas educativas e amigáveis para ajudar na organização financeira.
+
+### 2. Resumo Financeiro em Tempo Real
+- Exibição do saldo atual, receitas e despesas do mês.
+- Indicadores visuais mostram evolução positiva ou negativa.
+- Visão clara e rápida da situação financeira.
+
+### 3. Classificação Automática de Transações
+- Transações organizadas por categoria (ex.: mercado, transporte).
+- Cada gasto aparece com data, nome do estabelecimento e valor.
+
+### 4. Navegação por Funcionalidades-Chave
+- **Transações**: histórico detalhado de entradas e saídas.
+- **Relatórios**: visualizações simples e personalizadas.
+- **Metas**: definição e acompanhamento de objetivos financeiros.
+- **Dicas**: sugestões práticas do assistente para economizar.
+
+### 5. Design Universal
+- Interface acessível e linguagem clara para diferentes perfis de usuários.
+- Ideal para iniciantes e pessoas com pouca familiaridade digital.
+- Compatível com diferentes dispositivos e necessidades de acessibilidade.
+  
+-  
+## Reflexão 
+  ## O que funcionou bem?
+    A IA acelerou drasticamente o processo, transformando rapidamente ideias em código funcional. A prototipagem ganhou ritmo, permitindo testar hipóteses quase em tempo real e reduzindo a distância entre design e aplicação interativa.
+    
+  ## O que não funcionou como o esperado?
+    Apesar da velocidade, surgiram limitações — especialmente a dependência de créditos da plataforma, que restringiu o refinamento final. Além disso, o desenvolvimento baseado inteiramente na IA cria uma “caixa preta”, dificultando ajustes finos ou correções de lógica sem intervenção manual.
+    
+  ## O que aprendeu sobre conversar com IAs?
+O principal ganho foi perceber que a nova habilidade essencial é dar contexto. Prompt bem estruturado significa resultado mais preciso. Construir em blocos, iterar e validar parte por parte é a melhor forma de guiar a IA no desenvolvimento.
+
 
 ## 💬 Conclusão
 
