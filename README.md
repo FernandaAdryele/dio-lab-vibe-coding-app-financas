@@ -4,26 +4,25 @@ Aprenda a **criar soluções com IA** de forma criativa, guiando ferramentas com
 
 ## ✨ O que é Vibe Coding
 
-**Vibe Coding** é uma forma leve e criativa de desenvolver com IA, baseada em **conversas naturais e bem estruturadas**. Você não precisa escrever código linha por linha. Em vez disso, aprende a **guiar a IA** descrevendo suas ideias de forma clara, com **intenção e contexto**. Em outras palavras:
+**Vibe Coding** é uma forma leve e criativa de desenvolver com IA, baseada em **conversas naturais e bem estruturadas**. Você não precisa escrever código linha por linha. Em vez disso, aprende a **guiar a IA** descrevendo suas ideias de forma clara, com **intenção e contexto**.
 
 > Você mostra a vibe da sua ideia e a IA transforma em solução (ou em um caminho para ela).
 
 ## 🎯 Desafio
 
-Problema: Muitas pessoas não conseguem manter um controle financeiro porque os aplicativos exigem muita entrada de dados manual, e a criação de orçamentos é vista como algo tedioso. 
+**Problema:** Muitas pessoas não conseguem manter um controle financeiro porque os aplicativos exigem muita entrada de dados manual, e a criação de orçamentos é vista como algo tedioso.
 
 Precisamos de uma solução que permita **controlar as finanças por meio de uma conversa simples**, com **agentes de IA** capazes de criar **planos de economia personalizados e automatizados**. Você deve utilizar as ideias de **Vibe Coding** e **MVP (Produto Mínimo Viável)** para desenvolver o **conceito de um aplicativo** que resolva o problema citado.
 
-> [!IMPORTANT]
-> Você **não precisa construir o código**! O foco está em **usar a IA como sua parceira criativa**, transformando boas ideias e prompts em conceitos funcionais que simulam um produto real.
+> **Importante:** Você **não precisa construir o código**! O foco está em **usar a IA como sua parceira criativa**, transformando boas ideias e prompts em conceitos funcionais que simulam um produto real.
 
 ## 🪄 Etapas do Desafio
 
-### 1. Saber o que Pedir é a Chave! Otimize seus Prompts!
+### 1. Saber o que pedir é a chave: otimize seus prompts
 
-Antes de pedir para a IA "criar um app", é importante definir com clareza o que você quer construir e por quê. Para isso, você vai criar um **PRD (Product Requirements Document)** simplificado, uma especificação que serve como _briefing_ para a IA entender sua ideia.
+Antes de pedir para a IA "criar um app", é importante definir com clareza o que você quer construir e por quê. Para isso, você vai criar um **PRD (Product Requirements Document)** simplificado, uma especificação que serve como briefing para a IA entender sua ideia.
 
-Um bom PRD deve descrever o problema, quem será beneficiado, as principais funcionalidades e o que você espera que a IA entregue. Use o modelo abaixo como ponto de partida e adapte conforme o seu estilo:
+Um bom PRD deve descrever o problema, quem será beneficiado, as principais funcionalidades e o que você espera que a IA entregue. Use o modelo abaixo como ponto de partida:
 
 ```txt
 # Contexto
@@ -51,24 +50,24 @@ Usar tom educativo e linguagem acessível, em português.
 
 Depois de preencher o modelo, use o Copilot Web para revisar e melhorar o seu prompt antes de ir ao Lovable. A ideia é lapidar o texto até que ele fique claro, direto e reflita exatamente a sua intenção.
 
-> [!TIP]
-> Pense no PRD/Prompt como “o briefing que a IA precisa para entender sua vibe”. Portanto, quanto mais claro e intencional for o texto, mais próximas do ideal serão as respostas da IA.
+> **Dica:** Pense no PRD/Prompt como “o briefing que a IA precisa para entender sua vibe”. Quanto mais claro e intencional for o texto, mais próximas do ideal serão as respostas da IA.
 
-### 2. Explorando o Lovable na Prática
+### 2. Explorando o Lovable na prática
 
 Com seu PRD pronto e revisado, é hora de colocar a IA em ação. Abra o Lovable, cole seu prompt completo e peça o plano inicial do MVP do seu aplicativo. Como o plano gratuito limita você a 5 interações por dia, seja estratégico:
-- Faça perguntas diretas e construtivas, como “crie o fluxo de telas com base nas funcionalidades listadas” ou “gere uma versão resumida do plano de MVP”;
-- Priorize clareza nas instruções para aproveitar ao máximo cada resposta;
+
+- Faça perguntas diretas e construtivas, como “crie o fluxo de telas com base nas funcionalidades listadas” ou “gere uma versão resumida do plano de MVP”.
+- Priorize clareza nas instruções para aproveitar ao máximo cada resposta.
 
 Durante essa etapa, você pode orientar a IA para três entregas principais:
-1. Agente Financeiro: defina o comportamento e o tom de voz de um consultor financeiro pessoal, alinhado ao público e objetivo do app.
-2. Fluxo de Telas: peça à IA para gerar o fluxo conceitual de telas com base nas funcionalidades descritas no PRD, simulando a interação por conversa.
-3. Plano de MVP: solicite um resumo das 5 funcionalidades principais, dos recursos necessários e um plano de validação inicial (como medir se o app cumpre seu propósito).
 
-> [!TIP]
-> Se preferir, você pode fazer tudo com o **Copilot**. O importante é exercitar a habilidade de transformar intenções em instruções claras e testar os limites da IA como parceira criativa.
+1. **Agente Financeiro**: defina o comportamento e o tom de voz de um consultor financeiro pessoal, alinhado ao público e objetivo do app.
+2. **Fluxo de Telas**: peça à IA para gerar o fluxo conceitual de telas com base nas funcionalidades descritas no PRD, simulando a interação por conversa.
+3. **Plano de MVP**: solicite um resumo das 5 funcionalidades principais, dos recursos necessários e um plano de validação inicial (como medir se o app cumpre seu propósito).
 
-### 3. Entregando o Desafio na DIO
+> **Dica:** Se preferir, você pode fazer tudo com o **Copilot**. O importante é exercitar a habilidade de transformar intenções em instruções claras e testar os limites da IA como parceira criativa.
+
+### 3. Entregando o desafio na DIO
 
 PRD refinado no Copilot:
 
@@ -103,17 +102,15 @@ A proposta é simplificar o controle financeiro, eliminando formulários complex
   - Recursos mínimos necessários (NLP para chat, categorização automática, dashboard simples).
   - Esboço de validação inicial (testar com grupo piloto de usuários iniciantes e pessoas com diferentes perfis de acessibilidade).
 - Linguagem acessível e educativa, em português, para facilitar entendimento e adoção.
-
 ```
+
 Interações com o Lovable:
 
-> Crie um App de Finanças pessoais com base no seguinte PRD
-> tentei colocar um gasto porém o aplicativo não reconheceu
-> Consegue trazer os relatórios das movimentações bancárias, com gráfico, por favor
+> Crie um App de Finanças pessoais com base no seguinte PRD  
+> Tentei colocar um gasto porém o aplicativo não reconheceu  
+> Consegue trazer os relatórios das movimentações bancárias, com gráficos, por favor
 
-> Resultado final no Lovable: https://conversa-cash-coach.lovable.app
-
-<img width="1892" height="882" alt="image" src="https://github.com/user-attachments/assets/18f669da-f8fc-4983-beb1-3ff366884ca1" />
+Resultado final no Lovable: https://conversa-cash-coach.lovable.app
 
 ## Funcionalidades do App MinhasFinanças
 
@@ -141,19 +138,11 @@ Interações com o Lovable:
 - Interface acessível e linguagem clara para diferentes perfis de usuários.
 - Ideal para iniciantes e pessoas com pouca familiaridade digital.
 - Compatível com diferentes dispositivos e necessidades de acessibilidade.
-  
-  
-## Reflexão 
-  ## O que funcionou bem?
-    A IA acelerou drasticamente o processo, transformando rapidamente ideias em código funcional. A prototipagem ganhou ritmo, permitindo testar hipóteses quase em tempo real e reduzindo a distância entre design e aplicação interativa.
-    
-  ## O que não funcionou como o esperado?
-    Apesar da velocidade, surgiram limitações — especialmente a dependência de créditos da plataforma, que restringiu o refinamento final. Além disso, o desenvolvimento baseado inteiramente na IA cria uma “caixa preta”, dificultando ajustes finos ou correções de lógica sem intervenção manual.
-    
-  ## O que aprendeu sobre conversar com IAs?
-O principal ganho foi perceber que a nova habilidade essencial é dar contexto. Prompt bem estruturado significa resultado mais preciso. Construir em blocos, iterar e validar parte por parte é a melhor forma de guiar a IA no desenvolvimento.
 
+## Reflexão
 
-## 💬 Conclusão
+O que funcionou bem: A IA acelerou drasticamente o processo, transformando rapidamente ideias em código funcional. A prototipagem ganhou ritmo, permitindo testar hipóteses quase em tempo real e reduzindo a distância entre design e aplicação interativa.
 
-Vibe Coding é sobre clareza, curiosidade e criatividade, não sobre perfeição técnica. O verdadeiro objetivo aqui é aprender a pensar junto com a IA, transformando ideias em conceitos reais e enxergando a tecnologia como uma extensão do seu raciocínio criativo. Cada interação é um experimento, quanto mais clara for sua intenção, mais surpreendente será o resultado.
+O desafio: Apesar da velocidade, surgiram limitações — especialmente a dependência de créditos da plataforma, que restringiu o refinamento final. Além disso, o desenvolvimento baseado inteiramente na IA cria uma “caixa preta”, dificultando ajustes finos ou correções de lógica sem intervenção manual.
+
+Aprendizados: O principal ganho foi perceber que a nova habilidade essencial é dar contexto. Prompt bem estruturado significa resultado mais preciso. Construir em blocos, iterar e validar parte por parte é a melhor forma de guiar a IA no desenvolvimento.
